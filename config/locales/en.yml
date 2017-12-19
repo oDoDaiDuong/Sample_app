@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  signup: "Sign up"
+  success: "Welcome to the Sample App!"
+  error_message: "error"
+  nouser: "User doesn't exist"
+  confirm: "Confirmation"
+  create_acc: "Create my account"
+  contain_err: "The form contains "
