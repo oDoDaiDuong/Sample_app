@@ -5,8 +5,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem "bootstrap-sass", "~> 3.3.6"
 gem "bcrypt"
+gem "bootstrap-sass", "~> 3.3.6"
 gem "coffee-rails", "~> 4.2"
 gem "rails", "~> 5.1.4"
 gem "mysql2", ">= 0.3.18", "< 0.5"
