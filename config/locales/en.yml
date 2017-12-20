@@ -35,3 +35,4 @@ en:
   success: "Welcome to the Sample App!"
   error_message: "error"
   nouser: "User doesn't exist"
+  login: "Log in"
