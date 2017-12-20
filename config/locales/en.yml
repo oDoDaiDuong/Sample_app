@@ -36,3 +36,6 @@ en:
   error_message: "error"
   nouser: "User doesn't exist"
   login: "Log in"
+  confirm: "Confirmation"
+  create_acc: "Create my account"
+  contain_err: "The form contains "
