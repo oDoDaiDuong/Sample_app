@@ -7,8 +7,10 @@ end
 
 gem "bcrypt"
 gem "bootstrap-sass", "~> 3.3.6"
+gem 'bootstrap-will_paginate', '1.0.0'
 gem "coffee-rails", "~> 4.2"
 gem "config"
+gem 'faker', '1.7.3'
 gem "rails", "~> 5.1.4"
 gem "mysql2", ">= 0.3.18", "< 0.5"
 gem "puma", "~> 3.7"
@@ -18,6 +20,7 @@ gem "jquery-rails"
 gem "sass-rails", "~> 5.0"
 gem "sprockets-rails", :require => "sprockets/railtie"
 gem "turbolinks", "~> 5"
+gem 'will_paginate', '3.1.6'
 
 group :production do
   gem "pg",             "~> 0.18"
