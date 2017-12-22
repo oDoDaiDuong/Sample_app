@@ -2,7 +2,7 @@ class UsersController < ApplicationController
   def show
     @user = User.find_by id: params[:id]
     return if @user
-    flash[:danger] = t"nouser"
+    flash[:danger] = t "nouser"
     redirect_to signup_path
   end
 
