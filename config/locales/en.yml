@@ -47,3 +47,4 @@ en:
   logout: "Log out"
   profile: "Profile"
   invalid: "Invalid email/password combination"
+  remember_acc: "Remember me on this computer"
